@@ -1,4 +1,4 @@
-Tai web servisas, skirta sandėlių ir jų inventoriaus valdymui naudojant Redis duomenų bazę. Jis leidžia registruoti, gauti informaciją, atnaujinti ir ištrinti sandėlius bei jų inventorių.
+Tai web servisas, skirtas sandėlių ir jų inventoriaus valdymui naudojant Redis duomenų bazę. Jis leidžia registruoti, gauti informaciją, atnaujinti ir ištrinti sandėlius bei jų inventorių.
 Programos veikimas apsaugotas nuo vartotojo klaidingų įvesčių.
 
 ## Programos paleidimas
